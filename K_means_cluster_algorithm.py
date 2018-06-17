@@ -57,7 +57,7 @@ class K_Means:
                 original_centroid = prev_centroids[centroid]
                 current_centroid = self.centroids[centroid]
 
-                percent_change = np.sum((current_centroid-original_centroid)/ original_centroid*100)
+                percent_change = np.sum((current_centroid-original_centroid) / original_centroid*100)
                 # Tolerance is calculated by percent change of centroids
 
                 if percent_change > self.tol:
