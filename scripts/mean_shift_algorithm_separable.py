@@ -162,3 +162,8 @@ for centroid in centroids:
 plt.show()
 
 
+
+
+
+
+

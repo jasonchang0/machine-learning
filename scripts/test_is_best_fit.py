@@ -16,3 +16,9 @@ class test_is_best_fit(TestCase):
 
         # self.assertTrue('FOO'.isupper())
         self.assertTrue(coefficient_of_determination(ys, regression_line) > 0.95)
+
+
+
+
+
+

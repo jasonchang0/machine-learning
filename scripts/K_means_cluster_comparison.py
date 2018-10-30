@@ -127,3 +127,13 @@ for i in range(len(X)):
         correct += 1
 
 print('Accuracy:', correct / len(X))
+
+
+
+
+
+
+
+
+
+

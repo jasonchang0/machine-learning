@@ -24,3 +24,11 @@ for i in range(len(x)):
 
 plt.scatter(centroids[:,0], centroids[:,1], color = 'b', marker = '*', s=75, linewidths=5)
 plt.show()
+
+
+
+
+
+
+
+

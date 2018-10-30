@@ -69,3 +69,11 @@ plt.scatter(xs, ys)
 plt.plot(xs, regression_line)
 
 plt.show()
+
+
+
+
+
+
+
+

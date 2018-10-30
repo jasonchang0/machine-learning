@@ -46,3 +46,9 @@ plt.show()
 
 result = k_nearest_neighbors(dataset, new_data, k=5)
 
+
+
+
+
+
+

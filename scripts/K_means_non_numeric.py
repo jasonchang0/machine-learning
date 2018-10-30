@@ -101,3 +101,9 @@ print('Accuracy:', correct/len(x))
 # Such 0 -> 1 as compared to 1 -> 1 [clf.predict -> yi]
 
 
+
+
+
+
+
+

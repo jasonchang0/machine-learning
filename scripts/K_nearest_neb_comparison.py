@@ -89,3 +89,11 @@ for i in range(40):
 
 print(sum(accuracies)/len(accuracies))
 
+
+
+
+
+
+
+
+
