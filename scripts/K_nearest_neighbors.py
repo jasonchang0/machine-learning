@@ -24,7 +24,7 @@ accuracies = []
 for i in range(40):
     x_train, x_test, y_train, y_test = cross_validation.train_test_split(x, y, test_size=0.2)
 
-    clf = neighbors.KNeighborsClassifier(n_jobs = -1)
+    clf = neighbors.KNeighborsClassifier(n_jobs=-1)
     clf.fit(x_train, y_train)
 
     accuracy = clf.score(x_test, y_test)

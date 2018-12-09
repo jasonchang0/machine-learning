@@ -6,7 +6,7 @@ import random
 
 style.use('dark_background')
 
-centers = random.randrange(3,7)
+centers = random.randrange(3, 7)
 
 x, y = make_blobs(n_samples=75, centers=centers, n_features=2)
 print('x:', x)
